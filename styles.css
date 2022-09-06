@@ -130,9 +130,3 @@ button:hover{
         flex-basis: 207px;
     }
 }
-@media (max-width:1655px) {
-    body {
-        height: 0%;
-        
-    }
-}
